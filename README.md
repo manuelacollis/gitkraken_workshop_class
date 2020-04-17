@@ -1,6 +1,5 @@
-# GitKraken Workshop
-
-I will add some more info.
+# Gitkraken Workshop
+A hands-on workshop to demonstrate using GitKraken as a GUI client to the Git version control system.
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
